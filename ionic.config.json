@@ -1,0 +1,7 @@
+{
+  "name": "button-transition",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
